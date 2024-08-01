@@ -7,7 +7,7 @@ import os  # For optional image deletion
 import time  # For time-based functionalities
 
 # Telegram bot information (replace with your details)
-token = '6985396809:AAHGDgYzGLjA55HyIurEHNrHiObrneswL1g'
+token = '###'
 receiver_id = '-4199830420'
 
 
