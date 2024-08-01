@@ -8,7 +8,7 @@ import time  # For time-based functionalities
 
 # Telegram bot information (replace with your details)
 token = '###'
-receiver_id = '-4199830420'
+receiver_id = '###'
 
 
 def send_telegram_alert(message):
